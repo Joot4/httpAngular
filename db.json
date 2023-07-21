@@ -1,0 +1,7 @@
+{
+  "cursos": [
+    { "id": 1, "name": "Angular"},
+    { "id": 2, "name": "Javascript"},
+    { "id": 3, "name": "Materialize UI"}
+  ]
+}
